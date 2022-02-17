@@ -1,0 +1,14 @@
+Source PCB Design cutting-tool_panel.PcbDoc contains embedded board array. It is recomended to generate individual BOM for each embedded board PCB design.
+
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [cutting-tool-pcb.PrjPcb]
+   Generated File[cutting-tool_panel.TXT]
+   Generated File[cutting-tool_panel.LDP]
+   Generated File[cutting-tool_panel.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 00:46:23 On 08/01/2022
