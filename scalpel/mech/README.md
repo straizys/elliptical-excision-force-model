@@ -7,6 +7,6 @@ The resulted prints were approximately 50 microns wider in XY direction.
 
 cutting_tool_assembly.stl is given for illustrating the complete assembly.
 
-![Alt Text](https://github.com/straizys/cutting-tool/blob/main/img/cutting-tool-assembly.gif)
+![Alt Text](https://github.com/straizys/elliptical-excision-force-model/blob/main/scalpel/mech/cutting-tool-assembly.gif)
 
-<img src="https://github.com/straizys/cutting-tool/blob/main/img/micro_usb.png" alt="drawing" width="300"/>
+<img src="https://github.com/straizys/elliptical-excision-force-model/blob/main/scalpel/mech/micro_usb.png" alt="drawing" width="300"/>
